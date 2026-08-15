@@ -6,6 +6,18 @@ The app searches product data from Open Food Facts, Open Beauty Facts, and Open 
 
 This project was created collaboratively as a final project for the WBS Coding School Data Science / AI program.
 
+## Preview
+
+![TrustShelf search screen](assets/trustshelf-search.png)
+
+![TrustShelf score overview](assets/trustshelf-score-overview.png)
+
+## Demo Video
+
+Watch the project demo on YouTube:
+
+[TrustShelf ESG Product Analyzer - Demo](https://youtu.be/WEThnozXDQk)
+
 ## Equal Authorship
 
 This repository is one of two independently owned portfolio copies of the same collaborative project.
@@ -235,18 +247,6 @@ It demonstrates:
 - Streamlit dashboard development
 - Product-level and company-level ESG data modeling
 - Collaborative project delivery
-
-## Preview
-
-![TrustShelf search screen](assets/trustshelf-search.png)
-
-![TrustShelf score overview](assets/trustshelf-score-overview.png)
-
-## Demo Video
-
-Watch the project demo on YouTube:
-
-[TrustShelf ESG Product Analyzer - Demo](https://youtu.be/WEThnozXDQk)
 
 ## License
 
