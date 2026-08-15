@@ -1,0 +1,55 @@
+indx,database,label_keyword,matched_label,category,score_type,environmental,social,governance,ethic,score_group,reason,note,,,,
+1,open_food_facts,Ecoscore,Eco-Score A,Environmental,baseline,85,0,0,0,eco_score,"Eco-Score evaluates environmental impact
+across the product lifecycle:
+production,
+transport,
+packaging,
+biodiversity impact.",,,,,
+2,open_food_facts,Ecoscore,Eco-Score B,Environmental,baseline,70,0,0,0,eco_score,,,,,,
+3,open_food_facts,Ecoscore,Eco-Score C,Environmental,baseline,50,0,0,0,eco_score,,,,,,
+4,open_food_facts,Ecoscore,Eco-Score D,Environmental,baseline,30,0,0,0,eco_score,,,,,,
+5,open_food_facts,Ecoscore,Eco-Score E,Environmental,baseline,15,0,0,0,eco_score,,,,,,
+6,shared,organic,organic,Environmental,bonus,+5,0,0,0,organic_certification,"Product has an organic certification/claim, indicating more sustainable agricultural production.","Do not stack Organic + EU Organic.
+If both appear on one product, count only +20 once.",,,,"Does this product reduce environmental harm?
+Does it protect workers/farmers?
+Does it show animal welfare?
+Does it show company transparency/certification?"
+7,shared,eu-organic,EU Organic,Environmental,bonus,+5,0,0,0,organic_certification,"EU-recognized organic certification, especially relevant for products sold in Germany/EU.","Do not stack Organic + EU Organic.
+If both appear on one product, count only +20 once.",,,,
+8,shared,bio,Biodynamic agriculture,Environmental,bonus,+8,0,0,0,biodynamic_certification,"Biodynamic farming promotes biodiversity, soil health, ecosystem sustainability, and often exceeds standard organic farming requirements.",,,,,
+9,open_food_facts,sustainable-fishery,Sustainable fishery,Environmental,bonus,+5,0,0,0,sustainable_fishery,Promotes responsible fishing practices and marine ecosystem protection.,,,,,
+10,open_food_facts,sustainable-seafood,Sustainable Seafood MSC,Environmental,bonus,+8,0,0,0,sustainable_fishery,MSC-certified sustainable seafood sourcing.,,,,,
+11,open_food_facts,without-palm-oil,No palm oil,Environmental,bonus,+3,0,0,0,palm_oil_free,"Reduced deforestation risk
+Reduced habitat destruction
+Lower biodiversity impact",,,,,
+12,shared,fsc,FSC,Environmental,bonus,+5,0,0,0,sustainable_forestry,"FSC certification promotes responsible forest management, sustainable sourcing of wood and paper products, and protection of biodiversity and ecosystems.",,,,,
+13,open_food_facts,öko,EG-Öko-Verordnung,Environmental,bonus,+5,0,0,0,organic_certification,EU organic regulation certifying environmentally friendly agricultural practices and reduced synthetic pesticide use.,,,,,
+14,shared,carbon-trust,Carbon Trust Reducing CO2,Environmental,bonus,+5,0,0,0,carbon_reduction,Certification indicating efforts to measure and reduce carbon emissions and climate impact.,,,,,
+15,shared,carbon-trust,Carbon Trust CO2 Measured,Environmental,bonus,+3,0,0,0,carbon_footprint,"Measures CO₂ emissions
+Addresses climate change
+Direct environmental impact",,,,,
+16,shared,low-carbon,Low climate footprint,Environmental,bonus,+2,0,0,0,carbon_footprint,,,,,,
+17,shared,rainforest-alliance,Rainforest Alliance,"Environmental, Social",bonus,+5,+3,0,0,sustainable_agriculture,"Certification promotes sustainable agriculture, biodiversity protection, and improved livelihoods for farmers and workers.",,,,,
+18,open_food_facts,utz-certified,UTZ Certified,"Environmental, Social",bonus,+5,+3,0,0,sustainable_agriculture,"Certification promotes sustainable farming practices, responsible sourcing, and improved working conditions for farmers.",,,,,
+19,open_food_facts,utz-certified,UTZ Certified Cocoa,"Environmental, Social",bonus,+5,+3,0,0,sustainable_agriculture,Cocoa-specific UTZ certification supporting sustainable agriculture and responsible supply chains.,,,,,
+20,open_food_facts,sustainable-palm-oil,Sustainable Palm Oil,"Environmental, Social",bonus,+3,+2,0,0,sustainable_palm_oil,Palm oil sourced according to sustainability standards.,,,,,
+21,open_food_facts,asc,Responsible aquaculture ASC,"Environmental, Social",bonus,+6,+4,0,0,sustainable_seafood,ASC certification promotes environmentally responsible fish farming and improved social practices within aquaculture supply chains.,,,,,
+22,open_food_facts,naturland,Naturland Fair,"Environmental, Social",bonus,+6,+6,0,0,naturland_fair,"Combines organic farming requirements with fair trade principles, promoting environmental sustainability and fair treatment of producers.",,,,,
+23,shared,fairtrade-international,Fairtrade International,Social,bonus,0,+10,0,0,fairtrade_certification,"Certification promotes fair prices, better working conditions, and sustainable livelihoods for farmers and workers in global supply chains.",,,,,
+24,shared,fair-trade,Fair for Life,Social,bonus,0,+10,0,0,fairtrade_certification,"Fair trade certification promoting fair wages, responsible supply chains, and sustainable livelihoods for producers and workers.",,,,,
+25,shared,producer,Small Producers’ Symbol,Social,bonus,0,+8,0,0,fairtrade_certification,"Supports small-scale farmers through fair trade principles, improved market access, and fair compensation.",,,,,
+26,shared,vegan,Vegan,Ethics,bonus,0,0,0,+8,vegan_ethics,Indicates products are free from animal-derived ingredients and support animal welfare principles.,,,,,
+27,shared,vegetarian,Vegetarian,Ethics,bonus,0,0,0,+5,vegetarian_ethics,"Indicates reduced reliance on animal products and supports animal welfare considerations, though less strictly than vegan products.",,,,,
+28,shared,b-corp,Certified B Corporation,"Governance, Social, Ethics",bonus,0,+6,+10,+6,b_corp,"Certification evaluates a company’s social impact, governance practices, transparency, worker treatment, and environmental responsibility.",,,,,
+29,shared,ohne-gentechnik,Ohne Gentechnik,"Ethics, Environmental",bonus,+2,0,0,+5,non_gmo,"Indicates products are produced without genetic engineering, addressing consumer concerns about food production methods and transparency.",,,,,
+30,shared,regional,Regionalfenster,"Ethics, Environmental",bonus,+2,0,0,+5,regional_sourcing,"Provides transparency about product origin and supports regional sourcing, potentially reducing transport distances and increasing supply-chain transparency.",,,,,
+31,shared,gepa,GEPA,"Social, Ethics",bonus,0,+8,0,+4,fairtrade_certification,"Promotes fair trade, fair producer compensation, responsible sourcing, and long-term partnerships with small producers.",,,,,
+32,shared,cruelty-free,cruelty free,Ethics,bonus,0,0,0,+10,cruelty_free,,,,,,
+33,shared,not-tested-on-animals,Not tested on animals,Ethics,bonus,0,0,0,+10,cruelty_free,,,,,,
+34,open_beauty_facts,eco,Certified by Ecocert,Environmental,bonus,+8,0,0,0,organic_cosmetics,,,,,,
+35,shared,nat,Natrue,Environmental,bonus,+8,0,0,0,natural_cosmetics,,,,,,
+36,shared,without-microplastics,Without microplastics,Environmental,bonus,+8,0,0,+3,plastic_free,,,,,,
+37,shared,recyclable,Fully recyclable packaging,Environmental,bonus,+5,0,0,0,recyclable_packaging,,,,,,
+38,open_products_facts,ecolabel,EU Ecolabel,Environmental,bonus,+8,0,0,0,eu_ecolabel,,,,,,
+39,open_products_facts,blue,Blue Angel (Blauer Engel),Environmental,bonus,+10,0,0,0,blue_angel,,,,,,
+40,open_food_facts,Ecoscore,Eco-Score F,Environmental,baseline,5,0,0,0,eco_score,,,,,,

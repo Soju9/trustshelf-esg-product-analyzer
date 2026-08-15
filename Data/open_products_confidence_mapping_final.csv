@@ -1,0 +1,41 @@
+index,label_keyword,matched_label,score_group,confidence_weight
+1,Ecoscore,Eco-Score A,eco_score,40
+2,Ecoscore,Eco-Score B,eco_score,40
+3,Ecoscore,Eco-Score C,eco_score,40
+4,Ecoscore,Eco-Score D,eco_score,40
+5,Ecoscore,Eco-Score E,eco_score,40
+6,organic,organic,organic_certification,15
+7,eu-organic,EU Organic,organic_certification,15
+8,bio,Biodynamic agriculture,biodynamic_certification,15
+9,sustainable-fishery,Sustainable fishery,sustainable_fishery,15
+10,sustainable-seafood,Sustainable Seafood MSC,sustainable_fishery,15
+11,without-palm-oil,No palm oil,palm_oil_free,10
+12,fsc,FSC,sustainable_forestry,15
+13,öko,EG-Öko-Verordnung,organic_certification,15
+14,carbon-trust,Carbon Trust Reducing CO2,carbon_reduction,10
+15,carbon-trust,Carbon Trust CO2 Measured,carbon_footprint,10
+16,low-carbon,Low climate footprint,carbon_footprint,5
+17,rainforest-alliance,Rainforest Alliance,sustainable_agriculture,10
+18,utz-certified,UTZ Certified,sustainable_agriculture,10
+19,utz-certified,UTZ Certified Cocoa,sustainable_agriculture,10
+20,sustainable-palm-oil,Sustainable Palm Oil,sustainable_palm_oil,10
+21,asc,Responsible aquaculture ASC,sustainable_seafood,15
+22,naturland,Naturland Fair,naturland_fair,15
+23,fairtrade-international,Fairtrade International,fairtrade_certification,15
+24,fair-trade,Fair for Life,fairtrade_certification,15
+25,producer,Small Producers’ Symbol,fairtrade_certification,10
+26,vegan,Vegan,vegan_ethics,10
+27,vegetarian,Vegetarian,vegetarian_ethics,5
+28,b-corp,Certified B Corporation,b_corp,20
+29,ohne-gentechnik,Ohne Gentechnik,non_gmo,5
+30,regional,Regionalfenster,regional_sourcing,5
+31,gepa,GEPA,fairtrade_certification,10
+32,cruelty-free,cruelty free,cruelty_free,15
+33,not-tested-on-animals,Not tested on animals,cruelty_free,15
+34,eco,Certified by Ecocert,organic_cosmetics,15
+35,nat,Natrue,natural_cosmetics,15
+36,without-microplastics,Without microplastics,plastic_free,10
+37,recyclable,Fully recyclable packaging,recyclable_packaging,10
+38,ecolabel,EU Ecolabel,eu_ecolabel,15
+39,blue,Blue Angel (Blauer Engel),blue_angel,15
+40,Ecoscore,Eco-Score F,eco_score,40

@@ -1,0 +1,4 @@
+source,has_product_name,has_brand,has_categories,has_labels,has_ingredients,has_packaging,has_country,has_image,has_ecoscore
+beauty,0.987,0.787,0.853,0.213,0.287,0.167,1.0,0.667,0.013
+food,0.986,0.99,1.0,0.863,0.952,0.675,1.0,0.997,0.716
+products,1.0,0.929,0.606,0.081,0.051,0.212,1.0,0.596,0.0
