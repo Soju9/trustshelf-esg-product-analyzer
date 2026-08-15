@@ -136,7 +136,7 @@ Positive company policy evidence gives small bonuses. Serious controversy signal
 Clone the repository:
 
 ```bash
-git clone https://github.com/YOUR-USERNAME/trustshelf-esg-product-analyzer.git
+git clone https://github.com/Soju9/trustshelf-esg-product-analyzer.git
 cd trustshelf-esg-product-analyzer
 ```
 
