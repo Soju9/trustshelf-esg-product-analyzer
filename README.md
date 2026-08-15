@@ -75,6 +75,7 @@ Neither repository is intended to imply that one contributor owns the work and t
 ├── Processed/
 ├── Raw/
 ├── Notebooks/
+├── assets/
 ├── requirements.txt
 ├── .env.example
 ├── .gitignore
