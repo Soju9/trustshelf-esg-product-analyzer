@@ -12,8 +12,8 @@ This repository is one of two independently owned portfolio copies of the same c
 
 Equal contributors:
 
-- Person A Name - GitHub: https://github.com/person-a
-- Person B Name - GitHub: https://github.com/person-b
+- Nicolas Menges - GitHub: https://github.com/Soju9
+- Khadija Al Shinno - GitHub: https://github.com/khadijaAL15
 
 Neither repository is intended to imply that one contributor owns the work and the other only forked it.
 
