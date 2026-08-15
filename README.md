@@ -236,6 +236,12 @@ It demonstrates:
 - Product-level and company-level ESG data modeling
 - Collaborative project delivery
 
+## Preview
+
+![TrustShelf search screen](assets/trustshelf-search.png)
+
+![TrustShelf score overview](assets/trustshelf-score-overview.png)
+
 ## License
 
 This project is released under the MIT License.
