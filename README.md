@@ -242,6 +242,12 @@ It demonstrates:
 
 ![TrustShelf score overview](assets/trustshelf-score-overview.png)
 
+## Demo Video
+
+Watch the project demo on YouTube:
+
+[TrustShelf ESG Product Analyzer - Demo](https://youtu.be/WEThnozXDQk)
+
 ## License
 
 This project is released under the MIT License.
